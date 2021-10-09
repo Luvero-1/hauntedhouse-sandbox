@@ -1,0 +1,33 @@
+{
+  "name": "hauntedhouse-sandbox",
+  "title": "Haunted house 2ºed para Sandbox",
+  "description": "<p style=\"text-align:center\"><em>Acabas de entrar en la casa y ya te estás arrepintiendo. Lo considerabas un lugar siniestro, aun inofensivo, pero estas sombras, esos pequeños ruidos que te rodean parecen buscar la forma de dejarte como un mentiroso. Toda tu infancia has esuchado historias horribles acerca de la mansión de los desaparecidos gemelos Ferro. Pegada a ti, tu novia te agarra de la mano mientras sus dos mejores amigos, algo borrachos, entran detrás de vosotros.</em></p>\n<p style=\"text-align:center\"> </p>\n<p style=\"text-align:center\"><em>Venga, sigue. No tengo miedo – Te susurra ella.</em></p>\n<p style=\"text-align:center\"> </p>\n<p style=\"text-align:center\"><em>La verdad, preferirías que lo tuviera y usarla como excusa para dejar esta apuesta macabra y volver a la fiesta con los demás, a sólo cinco manzanas de distancia. Diez minutos, te prometes que sólo estaréis dentro diez minutos…</em></p>\n<ul id=\"moreinfo\"></ul>",
+  "author": "Luvero",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745"
+    }
+  ],
+  "url": "https://github.com/Luvero-1/hauntedhouse-sandbox",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/hauntedhouse-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/hauntedhouse-sandbox/zip/main",
+  "protected": false,
+  "background": "worlds/hauntedhouse-sandbox/1%20Escenas/wallpaper-haunted-house.jpg",
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.10.1"
+}

@@ -1,0 +1,12 @@
+{"_id":"1U514hA3wC9WPKU5","name":"Pestañas","type":"Item","sort":100000,"flags":{},"parent":"yxa6KWWQpYrQuCqJ","color":""}
+{"_id":"7iVecxhwOnqJbICm","name":"Ficha de pnjs","type":"Item","sort":1550000,"flags":{},"parent":null,"color":""}
+{"_id":"AZFlM2i3ZLZjGyB7","name":"Paneles y grupos","type":"Item","sort":200000,"flags":{},"parent":"yxa6KWWQpYrQuCqJ","color":""}
+{"_id":"D8orUDh49Vuqx5aB","name":"Detalles del personaje","type":"Item","sort":0,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"_id":"QSicG47Tfc6UOuxv","name":"Armas y protección","type":"Item","sort":300000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"_id":"UE6tNMgHynrMc3BK","name":"Ficha de secuaces","type":"Item","sort":1650000,"flags":{},"parent":null,"color":""}
+{"_id":"XLh6UKBnu9EJ88bq","name":"Inventario","type":"Item","sort":500000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"_id":"cBxcWip2Xw4gmS7A","name":"Habilidades","type":"Item","sort":200000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"_id":"mGLKjd7yP8RpqpI3","name":"Fichas (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"quNi6n7BMgJsLJci","name":"Propiedades y tablas","type":"Item","sort":300000,"flags":{},"parent":"yxa6KWWQpYrQuCqJ","color":""}
+{"_id":"vASaTmvNcGhxVLCo","name":"Car. principales y derivadas","type":"Item","sort":100000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"_id":"yxa6KWWQpYrQuCqJ","name":"Ficha de personaje","type":"Item","sort":1350000,"flags":{},"parent":null,"color":""}
