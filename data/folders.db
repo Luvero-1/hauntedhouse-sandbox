@@ -6,7 +6,8 @@
 {"_id":"UE6tNMgHynrMc3BK","name":"Ficha de secuaces","type":"Item","sort":1650000,"flags":{},"parent":null,"color":""}
 {"_id":"XLh6UKBnu9EJ88bq","name":"Inventario","type":"Item","sort":500000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
 {"_id":"cBxcWip2Xw4gmS7A","name":"Habilidades","type":"Item","sort":200000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
-{"_id":"mGLKjd7yP8RpqpI3","name":"Fichas (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Fichas","type":"Actor","sort":null,"flags":{},"parent":null,"color":"","_id":"mGLKjd7yP8RpqpI3"}
 {"_id":"quNi6n7BMgJsLJci","name":"Propiedades y tablas","type":"Item","sort":300000,"flags":{},"parent":"yxa6KWWQpYrQuCqJ","color":""}
 {"_id":"vASaTmvNcGhxVLCo","name":"Car. principales y derivadas","type":"Item","sort":100000,"flags":{},"parent":"quNi6n7BMgJsLJci","color":""}
+{"name":"cItems de ejemplo","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wkiDKqQiPxDXNggN"}
 {"_id":"yxa6KWWQpYrQuCqJ","name":"Ficha de personaje","type":"Item","sort":1350000,"flags":{},"parent":null,"color":""}

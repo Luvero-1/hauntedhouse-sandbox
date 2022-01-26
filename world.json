@@ -26,8 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/hauntedhouse-sandbox/zip/main",
   "protected": false,
   "background": "worlds/hauntedhouse-sandbox/1%20Escenas/wallpaper-haunted-house.jpg",
-  "coreVersion": "0.8.9",
+  "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.12.1"
 }
